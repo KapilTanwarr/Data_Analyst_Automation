@@ -1,0 +1,4 @@
+input_path: "data/input.csv"
+output_path: "data/output"
+log_file: "logs/app.log"
+report_path: "reports/summary_report.pdf"
